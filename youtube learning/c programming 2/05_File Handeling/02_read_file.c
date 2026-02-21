@@ -4,7 +4,7 @@ int main()
 {
   char ch[50];
   FILE *fp = NULL;
-  fp = fopen("abc.txt", "r");
+  fp = fopen("student.txt", "r");
   if (fp == NULL)
   {
     printf("Error:No file Exist");
