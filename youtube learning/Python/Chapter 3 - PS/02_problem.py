@@ -10,14 +10,15 @@ Dear <|Name|>,
 You are selected!
 <|Date|>
 '''
-print(letter.replace("<|Name|>","Adi").replace("<|Date|>","14.03.26"))
+print(letter.replace("<|Name|>",input("Enter your name: ")).replace("<|Date|>",input("Enter the date: ")))
 
 # OUTPUT:
 """
+Enter your name: Aditya
+Enter the date: 14.03.26
 
-Dear Adi,
+Dear Aditya,
 You are selected!
 14.03.26
-
 
 """
