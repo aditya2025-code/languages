@@ -305,4 +305,4 @@ Meta tags give information **about** your page to browsers and search engines:
 
 ---
 
-Now you have a solid foundation in HTML! Once you're comfortable with all of this, you'll be ready to jump into **CSS** to make everything look beautiful. Want me to build a **complete sample webpage** using all these concepts together? 🚀
+Now you have a solid foundation in HTML! Once you're comfortable with all of this, you'll be ready to jump into **CSS** to make everything look beautiful. 🚀
